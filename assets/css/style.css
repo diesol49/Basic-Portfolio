@@ -1,0 +1,30 @@
+body {
+    background-image: url(../images/Diego\ Solorio.png);
+    background-color: black;
+}
+
+header {
+    background-color: white;
+    border: #cccccc;
+    border-width: 5px;
+}
+
+h1 {
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px 10px;
+    background-color: #4aaaa5;
+}
+
+#menu {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px 20px;
+    float: right;
+
+}
+
+.big {
+    font-size: 20px;
+    color: #4aaaa5;
+
+}
